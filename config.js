@@ -37,10 +37,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','918188019676']
+global.owner = ['6285706735450','6283869803330']
 global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.packname = 'ZIM BOT INC'
+global.botname = 'XziroID INC xyz'
+global.packname = ' INC'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -61,7 +61,7 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
+    success: '*success baby*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
     admin: '*this cmd is for bot owner only , l can feel you but sorry okay*',
     botAdmin: '*with due respect can you please give bot adminship*',
